@@ -39,6 +39,7 @@ Passionate about identifying vulnerabilities, strengthening system defenses, and
 ---
 *⭐ Always open to collaboration and cybersecurity challenges.*
 
+![Snake animation](https://github.com/samisahnouniestn25-art/samisahnouniestn25-art/blob/output/github-contribution-grid-snake.svg)
 <!--
 **samisahnouniestn25-art/samisahnouniestn25-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
